@@ -11,6 +11,9 @@ Hi 👋, I'm Andika.<br>A Backend Developer from Indonesia.<br><br>🌱 I’m cu
 ![](https://github-readme-stats.vercel.app/api?username=idika31&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=idika31&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idika31&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://raw.githubusercontent.com/idika31/idika31/output/snake.svg)
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=idika31&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idika31&label=Profile%20views&color=0e75b6&style=flat" alt="idika31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idika31" alt="idika31" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/idika317" target="blank"><img src="https://img.shields.io/twitter/follow/idika317?logo=twitter&style=for-the-badge" alt="idika317" /></a> </p>
 
 - 🔭 I’m currently working on [API](https://github.com/IDika31/API)
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idika31&show_icons=true&theme=dark&locale=en" alt="idika31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idika31&" alt="idika31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idika31&theme=dark" alt="idika31" /></p>

@@ -15,9 +15,6 @@ Hi 👋, I'm Andika.<br>A Backend Developer from Indonesia.<br><br>🌱 I’m cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=idika31&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=IDika317)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
@@ -29,6 +26,3 @@ Hi 👋, I'm Andika.<br>A Backend Developer from Indonesia.<br><br>🌱 I’m cu
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/idika) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/idika31) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/idika) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@2.2.1
+        uses: Platane/snk/svg-only@v2.2.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake-dark.svg?palette=github-dark
